@@ -4,6 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>Flash Website</title>
+	<link rel="stylesheet" href="css/">
 </head>
 
 <body>
@@ -14,14 +15,7 @@
 
 		</header>
 
-		<nav class="main-menu">
-			<ul>
-				<li><a href="index.html" class='is-current'>Team Vancouver</a></li>
-				<li><a href="lingling.html">Lingling</a></li>
-				<li><a href="valerie.html">Valerie</a></li>
-				<li><a href="kevin.html">Kevin</a></li>
-			</ul>
-		</nav>
+		<?php include "inc/top.inc"; ?>
 
 	</div>
 
@@ -63,7 +57,7 @@
 		<p>
 			<span>I</span>’m a sophomore at the University of Rochester majoring in data science with clusters in Chinese and Psychology. I am also the marketing director of the Hong Kong Students’ Association. As the marketing director, I update the club’s social media pages and create posters for events. I was born and raised in New York City. Some of my favorite things to do in New York City include walking around Soho and going to the best bubble tea shops, such as Bar Pa Tea and Yaya Tea. In addition, I consider myself a foodie, always trying the newest restaurant or dessert shop which is why I created a foodstagram to document all of my food journeys.
 		</p>
-		
+
 
 
 		<h2 class="hometitle">Kevin | Brief Introduction</h2>
