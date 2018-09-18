@@ -19,11 +19,17 @@ body {
 
 */
 
+.title{
+    clear: both;
+}
+
+.kevin{
+    float: right;
+}
 
 .img1{
 	padding-right:10px;
 }
-
 
 .img2{
 	float: right;
@@ -31,13 +37,19 @@ body {
 	padding:5px;
 }
 
+.img3{
+    float: left;
+    margin-left: 0px;
+}
+
 .figcaption1{
 	padding-bottom: 10px;
 }
 
-.hometitle{
+ .hometitle{
 	padding-top: 20px;
-	font-size: 30px
+	font-size: 30px;
+    clear: both;
 }
 
 span{
