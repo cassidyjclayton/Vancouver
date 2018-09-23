@@ -15,7 +15,7 @@
 <body>
 
     <header>
-        <h1>KEVIN KAO</h1>
+        <h1>Kevin Kao</h1>
 
 
         <?php include "inc/nav.inc"; ?>
