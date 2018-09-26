@@ -32,7 +32,7 @@
 			<p>
 				I was born and raised in New York City. Some of my favorite things to do in New York City include walking around Soho and going to the best bubble tea shops, such as Bar Pa Tea and Yaya Tea. In addition, I consider myself a foodie, always trying the newest restaurant or dessert shop which is why I created a foodstagram to document all of my food journeys.</p>
 
-		<h2 class="title">First Jobs</h2>
+		<h2>Early Life and Education</h2>
 			<figure class="img2">
 				<img src="img/webapp.png" alt="web app">
 				<figcaption >Screenshot of the volunteer app I created</figcaption>
@@ -44,7 +44,7 @@
 			<p>
 				In the summer of 2015, I participated in Girls Who Code’s Summer Immersion Program, where I was introduced to computer science. I learned how to code in JavaScript, Python, and HTML. Besides gaining technical skills, I was able to connect with female engineers and entrepreneurs, and hear their stories about what it’s like to work in a tech company. The program also gave me the opportunity to visit different tech companies, such as Google and Microsoft. For the final project, I created a user-friendly online app using HTML and JavaScript to locate and post about volunteer services.</p>
 
-		<h2 class= "title">Internships</h2>
+		<h2 class= "title">Experience</h2>
 			<figure class="img3">
 				<img src="img/museum.jpg" alt="Doing PCR">
 				<figcaption>Preparing a gel for gel electrophoresis</figcaption>
@@ -56,7 +56,7 @@
 			<p>
 				For the past two years, I’ve been an intern at the American Museum of Natural History’s ornithology department. I conducted library and laboratory research on the genetic diversity of European starlings. The goal of the project was to determine if there were any distinct genetic differences between the European starlings of North America and their parent population. The research included extracting DNA from the flesh of the bird specimens and amplifying mitochondrial DNA from the birds. In addition, I used a bioinformatics software called Geneious to analyze and edit the DNA sequences. The program culminated in a research presentation at a symposium session.</p>
 
-		<h2 class = "title">Courses</h2>
+		<h2>Goals</h2>
 			<figure class="img2">
 				<img src="img/notes.jpg" alt="Chinese notes">
 				<figcaption>A page of notes</figcaption>
