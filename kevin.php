@@ -45,7 +45,7 @@
 
       <h2> About Me</h2>
       <p>
-       Hello there! My name is Kevin Kao. I was born in New York but went to Taiwan for primary and secondary educations! I am currently a student (sophomore) doubling major in Computer Science and Mathematics at the University of Rochester. I have strong interest in the field of science, and I have taken many courses related to my major last year. For example, I took CSC (170, 171, 172) and MTH (150, 165, 171, 172). In addition to that, I am now taking CSC (173, 174, 214) and MTH (173, 190, 201) to better prepare me for my career. Here I would like to share what triggers me to become a copmuter scientist and why I love technology so much!
+       Hello there! My name is Kevin Kao. I was born in New York but went to Taiwan for primary and secondary educations! I am currently a student (sophomore) doubling major in Computer Science and Mathematics at the University of Rochester. I have strong interest in the field of science, and I have taken many courses related to my major last year. For example, I took <em>CSC (170, 171, 172)</em> and <em>MTH (150, 165, 171, 172)</em>. In addition to that, I am now taking <em>CSC (173, 174, 214)</em> and <em>MTH (173, 190, 201)</em> to better prepare me for my career. Here I would like to share what triggers me to become a copmuter scientist and why I love technology so much!
       </p>
 
 
