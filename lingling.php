@@ -17,9 +17,10 @@
 				<h1>Lingling Li</h1>
 	</header>
 
-	<article>
+	
 		<?php include "inc/nav.inc"; ?>
-
+		
+		<article>
 		<figure class="img1">
 			<img src="img/line.jpg" alt="section line">
 		</figure>

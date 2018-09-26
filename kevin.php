@@ -16,10 +16,13 @@
 
     <header>
         <h1>Kevin Kao</h1>
+    </header>
+
 
 
         <?php include "inc/nav.inc"; ?>
 
+      <article> 
         <figure>
           <img src="img/line.jpg" alt="section line">
         </figure>
