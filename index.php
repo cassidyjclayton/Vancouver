@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>Flash Website</title>
+	<title>Technically, We're All Connected: A Profile of Three STEAM Students</title>
 	<link rel="stylesheet" href="css/styles.css">
 	<link rel="stylesheet" href="css/navigation.css">
 	<link rel="stylesheet" type="text/css" href="css/current.css">
@@ -13,7 +13,7 @@
 <body>
 
 		<header>
-			<h1>The Flash Website of Team Vancouver</h1>
+			<h1>Technically, We're All Connected: A Profile of Three STEAM Students</h1>
 		</header>
 
 		<?php include "inc/nav.inc"; ?>
