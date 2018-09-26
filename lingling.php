@@ -19,7 +19,7 @@
 
 	
 		<?php include "inc/nav.inc"; ?>
-		
+
 		<article>
 		<figure class="img1">
 			<img src="img/line.jpg" alt="section line">
@@ -35,17 +35,17 @@
 
 		<h2> Brief Introduction</h2>
 		<p>
-			My name is Lingling Li and my English name is Lily. I come from Shanghai, China. I love playing the piano, drawing, cooking and playing the badminton. I’m now a sophomore, and also the D’Lion in charge of Gate 6 and Gannett 6. My job is to help the first year student better move in to the brand new college life, and be their first friend in the college. I’m planning to have a double major in Business and Digital Media Study, minor in Japanese. A fun fact of me: I can never counts how many steps I had done when doing the “Running jump shot”
+			My name is Lingling Li, and my English name is Lily. I come from Shanghai, China. I love playing the piano, drawing, cooking and playing badminton. I’m now a sophomore, and also the D’Lion in charge of Gates 6 and Gannett 6. My job is to help the first year students better adjust to college life, and to be their first friend in college. I’m planning to double major in Business and Digital Media Studies, and minor in Japanese.
 		</p>
 
-		<h2 class="title"> Lingling's Story of Her Chilehood</h2>
+		<h2 class="title"> Lingling's Story of Her Childhood</h2>
 		<p>
-			I come from Shanghai, China, which is a modern and beautiful city. The place I missed their most is the park near my kindergarten. When I was age 4 when most of my peer had attended the kindergarten and start their "academic year", I on the other hand was still playing or in other words "studying"at home. My parents think that family education is better for a young kid than attending the class in the kindergarten, although the "family education"is not as popular in China as in America. I thank my parents a lot for letting me have this experience.
+			I come from Shanghai, China, which is a modern and beautiful city. The place I missed the most is the park near my kindergarten. When I was age 4 when most of my peer had attended the kindergarten and start their "academic year", I on the other hand was still playing or in other words "studying"at home. My parents think that family education is better for a young kid than attending the class in the kindergarten, although the "family education"is not as popular in China as in America. I thank my parents a lot for letting me have this experience.
 		</p>
 
 		<h2> Music Girl? Sports Girl? </h2>
 		<p>
-			I love to play the piano and is currently taking lessons in Eastman music school. I started to learn piano (as well as my painting) when I was in Kindergarten. Yes! Kindergarten again! But it was not until I attend the piano lesson in Eastman, did I start to love playing the piano. The teacher in Eastman simply overturned everything I thought I knew about the piano and how to practice the piano. "You must think the piano as an assembled collection of instruments”, my teacher said. I started to explore the unique tone quality of different region on the keyboard, and that makes me really excited. Just imagine! You can play as a band while you are just actually playing the single instrument!
+			I love to play the piano and am currently taking lessons in Eastman music school. I started to learn piano (as well as my painting) when I was in Kindergarten. Yes! Kindergarten again! But it was not until I attend the piano lesson in Eastman, did I start to love playing the piano. The teacher in Eastman simply overturned everything I thought I knew about the piano and how to practice the piano. "You must think the piano as an assembled collection of instruments”, my teacher said. I started to explore the unique tone quality of different region on the keyboard, and that makes me really excited. Just imagine! You can play as a band while you are just actually playing the single instrument!
 		</p>
 
 		<p>
