@@ -70,7 +70,7 @@
 
 	 <footer>
 	 	<div class="bottom">
-	 		This webpage, by team Vancouver
+	 		This webpage by team Vancouver
 	 	</div>
 	 </footer>
 

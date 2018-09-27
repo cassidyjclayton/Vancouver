@@ -89,7 +89,7 @@
         <a href="http://csc174.org/assignment01/kkao4/">Initial Personal Webpage | Kevin</a>
       </div>
       <div class="bottom">
-      This webpage, by Team Vancouver.
+      This webpage by Team Vancouver.
       </div>
     </footer>
 

@@ -81,7 +81,7 @@
 			<a href="http://www.csc174.org/assignment01/lli53/index.php">Initial Personal Webpage | Lingling</a>
 		</div>
 		<div class="bottom">
-			This webpage, by Team Vancouver. 
+			This webpage by Team Vancouver. 
 		</div>
 	</footer>
  <?php include "inc/scripts.inc"; ?>

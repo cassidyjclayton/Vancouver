@@ -81,7 +81,7 @@
 				<a href="http://csc174.org/assignment01/vtam/index.html">Initial Personal Webpage | Valerie</a>
 			</div>
 			<div class="bottom">
-			This webpage, by Team Vancouver. 
+			This webpage by Team Vancouver. 
 			</div>
 		</footer>
 
