@@ -79,6 +79,8 @@
 	 	<div class="bottom">
 	 		This webpage by Team Vancouver
 	 	</div>
+	 	<img class="img1" src="img/line.jpg" alt="section line">
+	 	<?php include "inc/nav.inc"; ?>
 	 </footer>
 
 	  <?php include "inc/scripts.inc"; ?>
