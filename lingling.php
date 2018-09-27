@@ -44,18 +44,18 @@
 		</p>
 
 		<p>
-			I have taken almost all pre-requesite course of my major. Among all of the classes, JPN101 is my favorite class. I tried to maintain my class credits with in 24, but there have too much interesting stuff I want to have a try in the college, so I overload again. I hope I can succeed in this year’s academic study.
-		</p>
-		<p>
-			I love to play the piano and am currently taking lessons in Eastman music school. I started to learn piano (as well as my painting) when I was in Kindergarten. Yes! Kindergarten again! But it was not until I attend the piano lesson in Eastman, did I start to love playing the piano. The teacher in Eastman simply overturned everything I thought I knew about the piano and how to practice the piano. "You must think the piano as an assembled collection of instruments”, my teacher said. I started to explore the unique tone quality of different region on the keyboard, and that makes me really excited. Just imagine! You can play as a band while you are just actually playing the single instrument!
+			I have taken almost all pre-requesite courses for my major. Of all the classes I've taken, JPN101 is my favorite class. I tried to keep my course load within 24 credits, but thereare simply too many interesting subjects I want to explre while in college, so I overloaded again this semester. I hope I can succeed in this year’s academic study.	I love to play the piano, and am currently taking lessons at Eastman music school. I started to learn piano (as well as my painting) when I was in Kindergarten. Yes! Kindergarten again! But it was not until I attended piano lessons at Eastman that I really started to love playing the piano. The teacher in Eastman simply overturned everything I thought I knew about the piano and how to practice the piano. "You must think the piano as an assembled collection of instruments”, my teacher said. I started to explore the unique tone quality of different region on the keyboard, and that makes me really excited. Just imagine! You can play as a band while you are just actually playing the single instrument!
 		</p>
 
 		<p>
-			Besides the piano, I'm also trying to explore my skill's possibility! I love painting and designing and have an intern this summer as a graphic designer in a Fin-tech company. For the sports, I love play badminton, and successfully managed to realize my goal settled at the beginning of last semester to cover 4 hours of sports every week. This semester, I want to explore the dancing area! I registered the "Rice Crew"club to have a taste of K-pop dancing. I'm also trying to do something for the community. I passed the elections to be a D'Lion this year on Gate 6 and Gannett 6, aiming to help the first-year students move into the campus and acted as a student leader on behalf on the "social sprit”.
+			Besides the piano, I'm also trying to explore other possibilities! For sports, I love play badminton, and successfully managed to realize my previous semester's goal to play 4 hours of sports every week. This semester, I want to explore the dancing area! 
 		</p>
 
 		<h2> Experience </h2>
 		
+			<p>
+				I love painting and designing, and had an internship this summer as a graphic designer in a Fin-tech company. I registered for the "Rice Crew" club to have a taste of K-pop dancing ths semester. I'm also trying to do something for the community. I passed the elections to be a D'Lion this year on Gate 6 and Gannett 6, aiming to help the first-year students move into the campus and acted as a student leader on behalf on the "social sprit”.
+			</p>
 
 		<h2> Goals</h2>
 		
