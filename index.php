@@ -36,9 +36,7 @@
 
 
 		<p>
-			My name is Lingling Li and my English name is Lily. I come from Shanghai, China. I love playing the piano, drawing, cooking and playing the badminton. I’m now a sophomore, and also the D’Lion in charge of Gate 6 and Gannett 6. My job
-			is to help the first year student better move in to the brand new college life, and be their first friend in the college. I’m planning to have a double major in Business and Digital Media Study, minor in Japanese. A fun fact of me: I can never
-			counts how many steps I had done when doing the “Running jump shot”
+			My name is Lingling Li, and my English name is Lily. I come from Shanghai, China. I love playing the piano, drawing, cooking and playing badminton. I’m now a sophomore, and also the D’Lion in charge of Gate 6 and Gannett 6. My job is to help the first year students better adjust to their brand-new college life, and to be their first friend on campus. I’m planning to double major in Business and Digital Media Studies, and to minor in Japanese. <a href="lingling.php"> Read More...</a>
 		</p>
 
 		<h2 class="hometitle"> Valerie | Brief Introduction</h2>
