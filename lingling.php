@@ -28,10 +28,10 @@
 		</figure>
 
 		<figure class="img2">
-			<img src="img/image_linglingli.jpg" alt="the picture of Lingling">
+			<img src="img/lingling-headshot.jpg" alt="the picture of Lingling">
 
-			<figcaption class="figcaption1">
-				Here is a picture of Lingling
+			<figcaption>
+				Here's a picture of Lingling
 			</figcaption>
 		</figure>
 

@@ -29,7 +29,7 @@
 		<h2 class="hometitle"> Lingling | Brief Introduction</h2>
 
 		<figure class="img2">
-			<img src="img/image_linglingli.jpg" alt="the picture of Lingling">
+			<img src="img/lingling-headshot.jpg" alt="the picture of Lingling">
 
 			<figcaption class="figcaption1">
 				Here is a picture of Lingling
@@ -46,9 +46,9 @@
 		<h2 class="hometitle"> Valerie | Brief Introduction</h2>
 
 		<figure class="img3">
-			<img src="img/aboutme.jpg" alt="Valerie Tam">
+			<img src="img/valerie-headshot.jpg" alt="Valerie Tam">
 			<figcaption class="figcaption1">
-				Here is a picture of Valerie
+				Here is a picture of Valerie.
 			</figcaption>
 		</figure>
 

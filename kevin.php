@@ -24,9 +24,13 @@
         <img src="img/line.jpg" alt="section line">
       
         <div class = "kevin">
-          
-            <img src="img/kevin.jpg" alt="profile-pic">
-         
+          <figure>
+            <img src="img/kevin-headshot.jpg" alt="profile-pic">
+
+            <figcaption>
+              Here's a picture of Kevin.
+            </figcaption>
+         </figure>
 
         </div>
 
