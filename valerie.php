@@ -15,7 +15,7 @@
 
 		<?php include "inc/nav.inc"; ?>
 
-		<article>
+		<main>
 			<figure class="img1">
 				<img src="img/line.jpg" alt="section line">
 			</figure>
@@ -68,7 +68,7 @@
 			<p>
 				The harder classes include BIO110 and CHM131. For me, BIO110 was more difficult because it focused mainly on the molecular level of biology. CHM131 was fine until I started to learn about acids and titrations. Another class that was intense was MTH162. Even though the AP exam gave me a good foundation, a lot of the topics were difficult to understand, such as series.</p>
 
-		</article>
+		</main>
 
 		<footer>
 			<div class="bottom">

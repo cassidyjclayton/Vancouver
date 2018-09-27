@@ -20,7 +20,7 @@
 	
 		<?php include "inc/nav.inc"; ?>
 
-		<article>
+		<main>
 		<figure class="img1">
 			<img src="img/line.jpg" alt="section line">
 		</figure>
@@ -63,7 +63,7 @@
 				For my academic career: I might return to China and work for some years. After I gain some savings and accumulate some life experience, I might return to school again. I might go to more countries to finish my graduate education. I plan to stay in Australia, England, German to have my graduate education. I believe the time being a student is the happiest time in life for you to enjoy the world, enjoy the travel and enjoy the knowledge. After the graduate school, I might return to work for several years, and might try to start my own business.
 			</p>
 
-	</article>
+	</main>
 
 	<footer>
 		<div class="bottom">
