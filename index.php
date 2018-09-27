@@ -21,10 +21,8 @@
 
 	<article>
 
-		<figure class="img1">
-			<img src="img/line.jpg" alt="section line">
+		<img class="img1" src="img/line.jpg" alt="section line">
 
-		</figure>
 
 		<h2 class="hometitle"> Lingling | Brief Introduction</h2>
 
