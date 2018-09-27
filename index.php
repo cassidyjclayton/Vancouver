@@ -63,7 +63,7 @@
 		</h2>
 
 		<figure class="img2" >
-			<img src="img/kevin.jpg" alt="Kevin Kao">
+			<img src="img/kevin-headshot.jpg" alt="Kevin Kao">
 			<figcaption class="caption">
 				Kevin in his freshman dorm
 			</figcaption>
