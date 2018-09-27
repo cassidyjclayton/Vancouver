@@ -77,9 +77,14 @@
 		<h2 class="title">
 			Source
 		</h2>
+
 		<div>
 			<a href="http://www.csc174.org/assignment01/lli53/index.php">Initial Personal Webpage | Lingling</a>
 		</div>
+
+		<img class="img1" src="img/line.jpg" alt="section line">
+	 	<?php include "inc/nav.inc"; ?>
+	 	
 		<div class="bottom">
 			This webpage by Team Vancouver. 
 		</div>
