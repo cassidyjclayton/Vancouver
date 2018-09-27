@@ -22,9 +22,8 @@
         <?php include "inc/nav.inc"; ?>
 
       <article> 
-        <figure>
           <img src="img/line.jpg" alt="section line">
-        </figure>
+      
         <div class = "kevin">
           
             <img src="img/kevin.jpg" alt="profile-pic">
