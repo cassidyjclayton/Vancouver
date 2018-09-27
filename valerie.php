@@ -67,7 +67,9 @@
 			</p>
 
 		<h2 class= "title">Goals</h2>
-		
+			<div>
+				My goal is to work at a healthcare startup in NYC like Flatiron Health or for the data science team at Mount Sinai's Arnold Institute for Global Health.
+			</div>
 
 		</main>
 
