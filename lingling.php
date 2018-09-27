@@ -44,7 +44,7 @@
 		</p>
 
 		<p>
-			I have taken almost all pre-requesite courses for my major. Of all the classes I've taken, JPN101 is my favorite class. I tried to keep my course load within 24 credits, but thereare simply too many interesting subjects I want to explre while in college, so I overloaded again this semester. I hope I can succeed in this year’s academic study.	I love to play the piano, and am currently taking lessons at Eastman music school. I started to learn piano (as well as my painting) when I was in Kindergarten. Yes! Kindergarten again! But it was not until I attended piano lessons at Eastman that I really started to love playing the piano. The teacher in Eastman simply overturned everything I thought I knew about the piano and how to practice the piano. "You must think the piano as an assembled collection of instruments”, my teacher said. I started to explore the unique tone quality of different region on the keyboard, and that makes me really excited. Just imagine! You can play as a band while you are just actually playing the single instrument!
+			I have taken almost all pre-requesite courses for my major. Of all the classes I've taken, JPN101 is my favorite class. I tried to keep my course load within 24 credits, but thereare simply too many interesting subjects I want to explre while in college, so I overloaded again this semester. I hope I can succeed in this year’s academic study.	I love to play the piano, and am currently taking lessons at Eastman music school. I started to learn piano (as well as my painting) when I was in Kindergarten. Yes! Kindergarten again! But it was not until I attended piano lessons at Eastman that I really started to love playing the piano. The teacher in Eastman simply overturned everything I thought I knew about the piano and how to practice the piano. "You must think the piano as an assembled collection of instruments,” my teacher said. I started to explore the unique tone quality of different region on the keyboard, and that makes me really excited. Just imagine! You can play as a band while you are just actually playing the single instrument!
 		</p>
 
 		<p>
@@ -60,7 +60,7 @@
 		<h2> Goals</h2>
 		
 		<p>
-				For my academic career: I might return to China and work for some years. After I gain some savings and accumulate some life experience, I might return to school again. I might go to more countries to finish my graduate education. I plan to stay in Australia, England, German to have my graduate education. I believe the time being a student is the happiest time in life for you to enjoy the world, enjoy the travel and enjoy the knowledge. After the graduate school, I might return to work for several years, and might try to start my own business.
+				For my academic career: I might return to China and work for some years. After I gain some savings and accumulate some life experience, I might return to school again. I might go to more countries to finish my graduate education. I plan to stay in Australia, England, German to have my graduate education. I believe the time being a student is the happiest time in life--you can enjoy the world, enjoy the travel and enjoy the knowledge. After graduate school, I might return to work for several years, and I' like to one day maybe even start my own business.
 			</p>
 
 	</main>
