@@ -40,11 +40,11 @@
 
 		<h2>Early Life and Education</h2>
 		<p>
-			I come from Shanghai, China, which is a modern and beautiful city. The place I missed the most is the park near my kindergarten. When I was age 4 when most of my peer had attended the kindergarten and start their "academic year", I on the other hand was still playing or in other words "studying"at home. My parents think that family education is better for a young kid than attending the class in the kindergarten, although the "family education"is not as popular in China as in America. I thank my parents a lot for letting me have this experience.
+			I come from Shanghai, China, which is a modern and beautiful city. The place I miss the most is the park near my kindergarten. By the age of 4, most of my peers were attending kindergarten, and starting their "academic year". I, on the other hand, was still playing--or in other words, "studying" at home. My parents think that family education is better for a young kid than attending class in the kindergarten, although "family education" is not as popular in China as in America. I thank my parents a lot for letting me have that experience.
 		</p>
 
 		<p>
-			I have taken almost all pre-request course of my major. Among all of the classes, JPN101 is my favorite class. I tried to maintain my class credits with in 24, but there have too much interesting stuff I want to have a try in the college, so I overload again. I hope I can succeed in this year’s academic study.
+			I have taken almost all pre-requesite course of my major. Among all of the classes, JPN101 is my favorite class. I tried to maintain my class credits with in 24, but there have too much interesting stuff I want to have a try in the college, so I overload again. I hope I can succeed in this year’s academic study.
 		</p>
 		<p>
 			I love to play the piano and am currently taking lessons in Eastman music school. I started to learn piano (as well as my painting) when I was in Kindergarten. Yes! Kindergarten again! But it was not until I attend the piano lesson in Eastman, did I start to love playing the piano. The teacher in Eastman simply overturned everything I thought I knew about the piano and how to practice the piano. "You must think the piano as an assembled collection of instruments”, my teacher said. I started to explore the unique tone quality of different region on the keyboard, and that makes me really excited. Just imagine! You can play as a band while you are just actually playing the single instrument!
