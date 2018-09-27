@@ -43,7 +43,9 @@
 			I come from Shanghai, China, which is a modern and beautiful city. The place I missed the most is the park near my kindergarten. When I was age 4 when most of my peer had attended the kindergarten and start their "academic year", I on the other hand was still playing or in other words "studying"at home. My parents think that family education is better for a young kid than attending the class in the kindergarten, although the "family education"is not as popular in China as in America. I thank my parents a lot for letting me have this experience.
 		</p>
 
-		<h2> Music Girl? Sports Girl? </h2>
+		<p>
+			I have taken almost all pre-request course of my major. Among all of the classes, JPN101 is my favorite class. I tried to maintain my class credits with in 24, but there have too much interesting stuff I want to have a try in the college, so I overload again. I hope I can succeed in this year’s academic study.
+		</p>
 		<p>
 			I love to play the piano and am currently taking lessons in Eastman music school. I started to learn piano (as well as my painting) when I was in Kindergarten. Yes! Kindergarten again! But it was not until I attend the piano lesson in Eastman, did I start to love playing the piano. The teacher in Eastman simply overturned everything I thought I knew about the piano and how to practice the piano. "You must think the piano as an assembled collection of instruments”, my teacher said. I started to explore the unique tone quality of different region on the keyboard, and that makes me really excited. Just imagine! You can play as a band while you are just actually playing the single instrument!
 		</p>
@@ -53,14 +55,13 @@
 		</p>
 
 		<h2> Experience </h2>
-			<p>
-				For my academic career: I might return to China and work for some years. After I gain some savings and accumulate some life experience, I might return to school again. I might go to more countries to finish my graduate education. I plan to stay in Australia, England, German to have my graduate education. I believe the time being a student is the happiest time in life for you to enjoy the world, enjoy the travel and enjoy the knowledge. After the graduate school, I might return to work for several years, and might try to start my own business.
-			</p>
+		
 
 		<h2> Goals</h2>
+		
 		<p>
-			I had taken almost all pre-request course of my major. Among all of the classes, JPN101 is my favorite class. I tried to maintain my class credits with in 24, but there have too much interesting stuff I want to have a try in the college, so I overload again. I hope I can succeed in this year’s academic study.
-		</p>
+				For my academic career: I might return to China and work for some years. After I gain some savings and accumulate some life experience, I might return to school again. I might go to more countries to finish my graduate education. I plan to stay in Australia, England, German to have my graduate education. I believe the time being a student is the happiest time in life for you to enjoy the world, enjoy the travel and enjoy the knowledge. After the graduate school, I might return to work for several years, and might try to start my own business.
+			</p>
 
 	</article>
 
