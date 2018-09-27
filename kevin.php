@@ -21,25 +21,19 @@
 
         <?php include "inc/nav.inc"; ?>
 
-      <article> 
-          <img src="img/line.jpg" alt="section line">
+        <img src="img/line.jpg" alt="section line">
       
         <div class = "kevin">
           
             <img src="img/kevin.jpg" alt="profile-pic">
          
 
-          <ul class="kevin">
-            <li>Major: Double major in CS and Mathematics</li>
-            <li>Minor: Phyiscs</li>
-            <li>Graduation: 2021</li>
-          </ul>
-      </div>
+        </div>
 
     </header>
 
 
-    <article>
+    <main>
 
       <h2>About Me</h2>
       <p>
@@ -53,7 +47,8 @@
       </p>
 
       <p> 
-        I studied in Taiwan for primary and secondary education, before coming to the University of Rochester. I have strong interest in the field of science, and I have taken many courses related to my major last year. For example, I took <em>CSC (170, 171, 172)</em> and <em>MTH (150, 165, 171, 172)</em>. In addition to that, I am now taking <em>CSC (173, 174, 214)</em> and <em>MTH (173, 190, 201)</em> to better prepare me for my career.
+        I studied in Taiwan for primary and secondary education, before coming to the University of Rochester. I have a strong interest in the field of science, and I have taken many courses related to my majors (Computer Science and Mathematics) last year. For example, I took <em>CSC (170, 171, 172)</em> and <em>MTH (150, 165, 171, 172)</em>. In addition to that, I am now taking <em>CSC (173, 174, 214)</em> and <em>MTH (173, 190, 201)</em> to better prepare me for my career. I am minoring in Physics, and expect to graduate in 2021
+
 
        <p>
        As the pioneer institution in advanced research and innovation, Hajim School of Engineering will be the perfect place for my exploratory journey to become a great engineer. I would expose myself to the many different fields of engineering by taking advantage of the wide selection of courses and learning from the world-class faculty at the School of Engineering. While the exceptional academic program will prepare me with a solid knowledge foundation, the abundant research and internship opportunities would allow me to apply and experiment the knowledge alongside with prominent professors and industry leaders.
@@ -71,7 +66,7 @@
       <p>
        When I think of the University of Rochester, I think of thousands of patients such as myself who has or may suffer from potentially fatal infections or acute asthma attacks. I think of the technology-enabled medical techniques that literally saved millions of lives. I think of an inspiration-filled atmosphere that perpetually battles at the forefront of breakthrough innovation. And I think of a world-class institution where I believe would be the best place for me to study as an engineer and as a leader, allowing me to be bold to dream and to be strong to lead! My goal, one day, is to be a computer scientist and engineer, and use technology to help others the same way it helped me!
       </p>
-    </article>
+    </main>
 
     <footer>
       <div class="bottom">
