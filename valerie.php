@@ -17,15 +17,14 @@
 		<?php include "inc/nav.inc"; ?>
 
 		<main>
-			<figure class="img1">
-				<img src="img/line.jpg" alt="section line">
+			<img class="img1" src="img/line.jpg" alt="section line">
+		<figure class = "img3">
+				<img src="img/valerie-headshot.jpg" alt="Valerie Tam">
+				<figcaption>Here's a picture of Valerie</figcaption>
 			</figure>
 
 		<h2>About Me</h2>
-			<figure class = "img3">
-					<img src="img/valerie-headshot.jpg" alt="Valerie Tam">
-					<figcaption>Here's a picture of Valerie</figcaption>
-			</figure>
+			
 
 			<p>
 				Im a sophomore at the University of Rochester majoring in data science with clusters in Chinese and Psychology. I am also the marketing director of the Hong Kong Students’ Association. As the marketing director, I update the club’s social media pages and create posters for events.</p>

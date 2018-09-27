@@ -18,14 +18,12 @@
 	<header>
 		<h1>Lingling Li</h1>
 	</header>
-
 	
 		<?php include "inc/nav.inc"; ?>
 
 		<main>
-		<figure class="img1">
-			<img src="img/line.jpg" alt="section line">
-		</figure>
+			<img class="img1" src="img/line.jpg" alt="section line">
+
 
 		<figure class="img2">
 			<img src="img/lingling-headshot.jpg" alt="the picture of Lingling">

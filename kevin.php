@@ -17,11 +17,14 @@
       <h1>Kevin Kao</h1>
     </header>
 
-
-
         <?php include "inc/nav.inc"; ?>
 
-        <img src="img/line.jpg" alt="section line">
+       
+    </header>
+
+
+    <main>
+       <img src="img/line.jpg" alt="section line">
       
         <div class = "kevin">
           <figure>
@@ -33,11 +36,6 @@
          </figure>
 
         </div>
-
-    </header>
-
-
-    <main>
 
       <h2>About Me</h2>
       <p>
